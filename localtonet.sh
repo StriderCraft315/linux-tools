@@ -20,7 +20,7 @@ cat << "EOF"
                                                                                         
 
                         LocaltoNet Installer
-                     Made with ❤️  by Hopingboyz
+                     Made with ❤️  by Michael
 EOF
 echo -e "\e[0m"
 
